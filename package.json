@@ -1,0 +1,23 @@
+{
+  "name": "smiley",
+  "version": "0.0.1",
+  "description": "WeChat Smiley for mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaPig404/smiley.git"
+  },
+  "keywords": [
+    "wechat",
+    "vue"
+  ],
+  "author": "Nuluf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlphaPig404/smiley/issues"
+  },
+  "homepage": "https://github.com/AlphaPig404/smiley#readme"
+}
