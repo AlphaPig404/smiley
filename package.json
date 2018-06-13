@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AlphaPig404/smiley/issues"
   },
-  "homepage": "https://github.com/AlphaPig404/smiley#readme"
+  "homepage": "https://github.com/AlphaPig404/smiley#readme",
+  "devDependencies": {
+    "vue-awesome-swiper": "^3.1.3"
+  }
 }
