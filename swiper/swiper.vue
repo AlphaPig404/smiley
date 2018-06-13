@@ -15,7 +15,7 @@ import { smiley } from '../smiley/smiley.js'
 import Smiley from '../smiley/smiley.vue'
 
   export default {
-    name: 'sliders',
+    name: 'smiley-slider',
     data() {
       return {
         swiperSlides: [],
